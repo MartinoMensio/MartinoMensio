@@ -14,3 +14,5 @@ My main contributions here are:
 To get in contact in the GitHub style, you can [create an issue!](https://github.com/MartinoMensio/MartinoMensio/issues/new)
 
 https://martinomensio.github.io/
+
+![Martino's github stats](https://github-readme-stats.vercel.app/api?username=MartinoMensio&show_icons=true)
