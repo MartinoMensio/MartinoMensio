@@ -7,7 +7,7 @@ I like to understand how things work and I think that Artificial Intelligence sh
 
 My main contributions here are:
 
-- spaCy: [Universal Sentence Encoder](https://github.com/MartinoMensio/spacy-universal-sentence-encoder-tfhub), [Italian GloVe](https://github.com/MartinoMensio/it_vectors_wiki_spacy)
+- models for spaCy: [Sentence Transformers](https://github.com/MartinoMensio/spacy-sentence-bert), [Universal Sentence Encoder](https://github.com/MartinoMensio/spacy-universal-sentence-encoder), [Italian GloVe](https://github.com/MartinoMensio/it_vectors_wiki_spacy)
 - My  Master's thesis project: [Joint contextual NLU](https://github.com/D2KLab/botcycle) and [paper](https://dl.acm.org/doi/10.1145/3184558.3191539)
 - Supports for Master's courses at Politecnico di Torino: [see the complete list here](https://www.martinomensio.github.io/polito/)
 
