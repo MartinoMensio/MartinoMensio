@@ -13,6 +13,12 @@ My main contributions here are:
   - creator of [spacy-dbpedia-spotlight](https://github.com/MartinoMensio/spacy-dbpedia-spotlight), a SpaCy wrapper for [DBPedia Spotlight](https://www.dbpedia-spotlight.org/)
   - mantainer of [spaCy-entity-linker](https://github.com/egerber/spaCy-entity-linker), a pipeline for spaCy that performs Linked Entity Extraction with Wikidata on a given Document
   - [Italian GloVe](https://github.com/MartinoMensio/it_vectors_wiki_spacy), an Italian version of GloVe trained on Wikipedia
+- [MisinfoMe](https://github.com/MartinoMensio/MisinfoMe): an app to analyse twitter profiles. It is made of four backend services and one frontend:
+  - [credibility](https://github.com/MartinoMensio/credibility): aggregating information about credibility of URLs, websites, tweets
+  - [twitter-connector](https://github.com/MartinoMensio/twitter-connector): managing interaction with Twitter API
+  - [claimreview-collector](https://github.com/MartinoMensio/claimreview-collector): retrieving ClaimReview from public websites, providing the manually annotated ground truth
+  - [backend](https://github.com/MartinoMensio/misinfome-backend): orchestrating the different services, providing data to the Frontend
+  - [frontend-v2](https://github.com/MartinoMensio/misinfome-frontend-v2): the user interface available at https://misinfo.me/
 - My  Master's thesis project: [Joint contextual NLU](https://github.com/D2KLab/botcycle) and [paper](https://dl.acm.org/doi/10.1145/3184558.3191539)
 - Supports for Master's courses at Politecnico di Torino: [see the complete list here](https://www.martinomensio.github.io/polito/)
 
