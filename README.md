@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile!
 
-I am Martino, PhD Student at the Open University. I graduated in Software Engineering and I am interested in Machine Learning and Explainability.
-In my PhD I am exploring how different news source are using propaganda to present related events. 
+I am Martino, an Open Source passionate and mantainer.
+I got my PhD at the Open University in Data Science. My Master's Degree is in Software Engineering and I am intrigued by Natural Language Processing, backend development, and Python.
 
 I like to understand how things work and I think that Artificial Intelligence should be more than algorithms that learn to perform complex tasks; we have to focus about explainable methods that enable the crowds to understand why things happen, to be able to face and remove bias, correct models and enabling the humans to improve their learning capabilities.
 
